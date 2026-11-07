@@ -1,0 +1,10 @@
+numpy
+librosa
+sounddevice
+soundfile
+faster-whisper
+mediapipe
+opencv-contrib-python
+pandas
+scikit-learn
+joblib

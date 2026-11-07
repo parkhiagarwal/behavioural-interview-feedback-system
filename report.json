@@ -1,0 +1,61 @@
+{
+  "scores": {
+    "Confidence": 67.7,
+    "Clarity": 44.1,
+    "Pronunciation": 95.0
+  },
+  "overall": 68.9,
+  "components": {
+    "pace": 3.4,
+    "pauses": 61.1,
+    "fillers": 47.9,
+    "hedging": 100.0,
+    "voice_expression": 100.0,
+    "word_clarity": 100.0,
+    "unclear_words": 83.3,
+    "eye_contact": 11.9,
+    "head_steady": 93.2,
+    "body_calm": 99.4,
+    "posture": 100.0
+  },
+  "audio": {
+    "total_time_s": 22.656,
+    "speaking_time_s": 13.408,
+    "pause_count": 10,
+    "longest_pause_s": 1.504,
+    "pause_ratio": 0.4081920903954802,
+    "syllables_per_sec": 9.024463007159905,
+    "volume_mean_db": -43.98080825805664,
+    "volume_std_db": 5.026293754577637,
+    "pitch_variation_semitones": 3.1760072813181415
+  },
+  "transcript": {
+    "transcript": "Hello everyone. My name is Parjegarov and I'm very happy to demonstrate my project in front of you. I hope you all like it.",
+    "word_count": 24,
+    "wpm": 62.06896551724137,
+    "long_pauses": 2,
+    "mean_word_confidence": 0.9048249384388328,
+    "unclear_words": [
+      [
+        "parjegarov",
+        0.23
+      ]
+    ],
+    "fillers": {
+      "like": 1
+    },
+    "filler_total": 1,
+    "hedges": {},
+    "hedge_total": 0,
+    "repeats": 0
+  },
+  "video": {
+    "duration_s": 30.336761236190796,
+    "face_visible_ratio": 1.0,
+    "eye_contact_ratio": 0.09518348623853211,
+    "head_movement": 0.008104754887055744,
+    "lean_variation": 0.035713169422182695,
+    "slouch_drift": -0.045548121461657196,
+    "body_movement": 0.00103281857529243
+  }
+}
